@@ -1,0 +1,6 @@
+const names = require('./3-names')
+const sayHi = require('./3-utils')
+require('./4-mind-grenede')
+sayHi('Susan')
+sayHi(names.jhon)
+sayHi(names.peter)
